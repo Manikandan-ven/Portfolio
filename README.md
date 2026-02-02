@@ -249,6 +249,11 @@ footer {
 
 ## OUTPUT
 ![alt text](<Screenshot 2026-02-02 122033.png>)
+
+
+
+
+
 ![alt text](<Screenshot 2026-02-02 122116.png>)
 ## RESULT
 The program for creating Portfolio using HTML and CSS is executed successfully.
